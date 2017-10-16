@@ -3,9 +3,9 @@ var headerText = "AU Julefrokost Bingo";
 
 var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>modified from jeffehobbs original code</a>";
 
-var winText = "Full Row or Column";
+var winText = "Winner: Full Line";
 
-var fullWinText = "Full House";
+var fullWinText = "Winner: Full House";
 
 var clickSnd = new Audio("audio/click.mp3");
 
